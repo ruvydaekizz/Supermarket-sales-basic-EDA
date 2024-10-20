@@ -1,4 +1,5 @@
-Supermarket Sales Basic EDA¶ <br>
+**Supermarket Sales Basic EDA¶** <br>
+
 In this tutorial, we will examine the Supermarket sales data set using basic tools and statistics with Python.
 We will do this with Python Basic EDA and visualize the data with Python such as Matplot and Seaborn libraries.
 Content:
